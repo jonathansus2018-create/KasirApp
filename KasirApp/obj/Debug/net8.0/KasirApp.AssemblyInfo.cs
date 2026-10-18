@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KasirApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d2e0f429d95c9d7ac0df670d63c9387fddac1fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f5cb542fd2fc83656b838769ab739bbd732764c")]
 [assembly: System.Reflection.AssemblyProductAttribute("KasirApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KasirApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
