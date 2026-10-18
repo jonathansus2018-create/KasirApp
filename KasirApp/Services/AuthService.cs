@@ -1,4 +1,4 @@
-//using BCrypt.Net;
+using BCrypt.Net;
 using KasirApp.Data;
 using KasirApp.Models;
 using Microsoft.EntityFrameworkCore;
