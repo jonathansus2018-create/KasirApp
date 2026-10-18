@@ -15,7 +15,7 @@ builder.Services.AddHttpContextAccessor();
 
 // Services
 builder.Services.AddScoped<IAuthService, AuthService>();
-builder.Services.AddScoped<IInvoiceService, InvoiceService>(); // nanti di fase 6
+//builder.Services.AddScoped<IInvoiceService, InvoiceService>(); // nanti di fase 6
 
 // 🎯 Cookie Auth (bukan Identity)
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)

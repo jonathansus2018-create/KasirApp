@@ -28,3 +28,5 @@ C:\Users\Jonathan\Jonathan_3002740466_CSharpBasicProject\KasirApp\obj\Debug\net8
 C:\Users\Jonathan\Jonathan_3002740466_CSharpBasicProject\KasirApp\obj\Debug\net8.0\KasirApp.pdb
 C:\Users\Jonathan\Jonathan_3002740466_CSharpBasicProject\KasirApp\obj\Debug\net8.0\KasirApp.genruntimeconfig.cache
 C:\Users\Jonathan\Jonathan_3002740466_CSharpBasicProject\KasirApp\obj\Debug\net8.0\ref\KasirApp.dll
+C:\Users\Jonathan\Jonathan_3002740466_CSharpBasicProject\KasirApp\obj\Debug\net8.0\KasirApp.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Jonathan_3002740466_CSharpBasicProject\KasirApp\obj\Debug\net8.0\KasirApp.sourcelink.json
